@@ -1,10 +1,10 @@
 return {
 
-  UwU = "UwU"
+  UwU = "UwU";
   UwU2 = {
   
-    lol = "lol"
+    lol = "lol";
   
-  }
+  };
 
 }
